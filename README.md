@@ -1,8 +1,8 @@
 ### Hi there 👋🏾, I'm Valter
 - 🔭 I’m a Software Engineer
 - 🌱 I visualize programming languages as tools to solve real world problems.
-- 👯 I’m open to collaborate on any tech related project spceially if it's to help the tech community.
-- 📫 How to reach me: You use the contacts below.
+- 👯 I’m open to collaborate on any tech related project especially if it's to help the tech community.
+- 📫 How to reach me: You can use the contacts below.
 ##
 
  <div>
